@@ -14,4 +14,11 @@ body {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 1.2rem;
     font-weight: 300;
+    text-align: center;
+    height: 500px;
+}
+h1 {
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    font: 25px;
+    color: purple;
 }
