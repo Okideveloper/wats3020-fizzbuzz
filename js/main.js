@@ -21,7 +21,7 @@ let isInteger,
     
     for (let i=1; i<= maxNumber; i++){
      let outputString = '';
-     if (i % 3){
+     if (i % 3 === 0){
          outputString += "fizz";
      } 
      if (i % 5){
